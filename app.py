@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import numpy as np
 import os
-import cv2
+# import cv2
 from ultralytics import YOLO
 from streamlit_option_menu import option_menu
 
